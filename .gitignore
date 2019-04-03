@@ -104,6 +104,8 @@ ipch/
 *.vsp
 *.vspx
 *.sap
+*.vcxproj
+*.vcxproj.filters
 
 # Visual Studio Trace Files
 *.e2e
@@ -219,8 +221,7 @@ ClientBin/
 *.jfm
 *.pfx
 *.publishsettings
-*.vcxproj
-*.vcxproj.filters
+
 orleans.codegen.cs
 
 # Including strong name files can present a security risk 

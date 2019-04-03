@@ -106,6 +106,7 @@ ipch/
 *.sap
 *.vcxproj
 *.vcxproj.filters
+*.sln
 
 # Visual Studio Trace Files
 *.e2e
@@ -331,3 +332,4 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+

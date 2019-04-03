@@ -1,2 +1,2 @@
 # CUDA_Learning
-Practice of
+Practice of Cuda programming
